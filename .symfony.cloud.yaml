@@ -4,6 +4,7 @@ type: php:7.4
 
 runtime:
     extensions:
+        - redis
         - pdo_pgsql
         - apcu
         - mbstring
@@ -24,6 +25,7 @@ disk: 512
 
 relationships:
     database: "db:postgresql"
+    redis: "rediscache:redis"
 
 web:
     locations:
