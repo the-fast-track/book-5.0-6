@@ -26,8 +26,11 @@
         "twig/twig": "^2.12|^3.0"
     },
     "require-dev": {
+        "symfony/browser-kit": "^5.0",
+        "symfony/css-selector": "^5.0",
         "symfony/debug-bundle": "^5.0",
         "symfony/maker-bundle": "^1.24",
+        "symfony/phpunit-bridge": "^5.2",
         "symfony/stopwatch": "^5.0",
         "symfony/var-dumper": "^5.0",
         "symfony/web-profiler-bundle": "^5.0"
