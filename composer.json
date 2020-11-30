@@ -32,6 +32,7 @@
         "symfony/css-selector": "^5.0",
         "symfony/debug-bundle": "^5.0",
         "symfony/maker-bundle": "^1.24",
+        "symfony/panther": "^0.8.0",
         "symfony/phpunit-bridge": "^5.2",
         "symfony/stopwatch": "^5.0",
         "symfony/var-dumper": "^5.0",

@@ -139,6 +139,9 @@
     "pagerfanta/pagerfanta": {
         "version": "v2.5.1"
     },
+    "php-webdriver/webdriver": {
+        "version": "1.9.0"
+    },
     "psr/cache": {
         "version": "1.0.1"
     },
@@ -332,6 +335,9 @@
     "symfony/orm-pack": {
         "version": "v2.0.0"
     },
+    "symfony/panther": {
+        "version": "v0.8.0"
+    },
     "symfony/phpunit-bridge": {
         "version": "4.3",
         "recipe": {
@@ -367,6 +373,9 @@
     },
     "symfony/polyfill-php80": {
         "version": "v1.20.0"
+    },
+    "symfony/process": {
+        "version": "v5.0.11"
     },
     "symfony/profiler-pack": {
         "version": "v1.0.5"
